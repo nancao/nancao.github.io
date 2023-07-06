@@ -6,7 +6,7 @@ subtitle: <a href='#'>Tongji University</a>. 281# Fuxin Road, Shanghai, China
 
 profile:
   align: right
-  image: nancao.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room is218A</p>
