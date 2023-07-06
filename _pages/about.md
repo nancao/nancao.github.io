@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://en.tongji.edu.cn/'>Tongji University</a>. 281# Fuxin Road, Shanghai, China
+subtitle: <a href='https://en.tongji.edu.cn/'>Tongji University</a>. Shanghai, China
 
 profile:
   align: right
@@ -11,7 +11,6 @@ profile:
   address: >
     <p>Room is218A</p>
     <p>281 Fuxin Road</p>
-    <p>Shanghai, China</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
