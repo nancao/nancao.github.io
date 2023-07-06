@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Recieved 2 honorable mention award from IEEE VIS.
