@@ -33,7 +33,7 @@ Nan Cao (曹楠) is the vice dean of Tongji College of Design and Innovation (To
 #### Services:
 - Computer Science Review (IF:12.9, JCR Q1), Editoral Board
 - IEEE Transactions on Big Data (IF: 7.2, JCR Q1), Associate Editor
-- ACM CHI 2024, Associate Chair (Visualization Track)
+- ACM CHI 2024, Associate Chair
 - IEEE VIS 2023, Poster Chair
 - IEEE PacificVis 2018, 2019, Paper Chair
 - ChinaVis 2017, 2018, Paper Chair
