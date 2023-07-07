@@ -18,6 +18,8 @@ social: false  # includes social icons at the bottom of the page
 ---
 Nan Cao is the vice dean of Tongji College of Design and Innovation (Tongji D&I) and a professor at  School of Software Engineering. He is the founding director of the AI Design Center at Tongji University. Before joining Tongji, Nan Cao was a resaerch staff member at IBM T. J. Watson Research Center in USA. He recieved the PhD degree in Computer Science and Engineering from the Hong Kong University of Science and Technology. His research interests are AI + (data visualization, visual anlyatics, information design, visual communication design, and human-computer interaction). He has pubilshed over 100 research papers in these fields.
 
+[Google Scholar](https://www.runoob.com),[DBLP](https://www.runoob.com)  
+
  <a href='https://scholar.google.com/citations?user=5I0mFcsAAAAJ'> Google Scholar </a> | <a href='https://dblp.org/pid/66/5146.html'> DBLP </a> 
 
 ### Awards:
@@ -38,7 +40,7 @@ Nan Cao is the vice dean of Tongji College of Design and Innovation (Tongji D&I)
 - IEEE PacificVis 2018, 2019, Paper Chair
 - ChinaVis 2017, 2018, Paper Chair
 
-### Students 
+### Students: 
 - 2022 - Now , Yi He, PhD, 
 - 2021 - Now , Jie Bao, PhD, 
 - 2021 - Now , Chao Yuan, PhD, 
