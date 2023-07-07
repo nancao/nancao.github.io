@@ -20,7 +20,7 @@ Nan Cao (曹楠) is the vice dean of Tongji College of Design and Innovation (To
 
 [Recent Publications](https://idvxlab.com/publication.html) <code>|</code> [Google Scholar](https://scholar.google.com/citations?user=5I0mFcsAAAAJ) <code>|</code> [DBLP](https://dblp.org/pid/66/5146.html)
 
-![fa-crown](fa-crown.svg)
+![fa-crown](google-scholar)
 
 #### Awards:
 - 2023, AI 2000 Most Influential Scholar Award Honorable Mention in Visualization, AI Open Index
