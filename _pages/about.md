@@ -31,7 +31,7 @@ Nan Cao is the vice dean of Tongji College of Design and Innovation (Tongji D&I)
 - 2005, Most Valuable Professional, Microsoft  
 
 #### Services:
-- Computer Science Review (IF:8.757, JCR Q1), Editoral Board
+- Computer Science Review (IF:12.9, JCR Q1), Editoral Board
 - IEEE Transactions on Big Data (IF: 7.2, JCR Q1), Associate Editor
 - ACM CHI 2024, Associate Chair (Visualization Track)
 - IEEE VIS 2023, Poster Chair
