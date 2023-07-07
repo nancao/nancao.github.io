@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://en.tongji.edu.cn/'>Tongji University</a>. Shanghai, China
+subtitle: <a href='https://en.tongji.edu.cn/'>Tongji University</a>Shanghai, China
 
 profile:
   align: right
