@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://en.tongji.edu.cn/'>Tongji University</a>Shanghai, China
+subtitle: <a href='https://en.tongji.edu.cn/'>Tongji University</a>, <a href='https://idvxlab.com/'>Intelligent Big Data Visualizaiton Lab</a>
 
 profile:
   align: right
@@ -39,13 +39,13 @@ Nan Cao is the vice dean of Tongji College of Design and Innovation (Tongji D&I)
 - ChinaVis 2017, 2018, Paper Chair
 
 ### Students: 
-- Yi He, 2022 - Now, PhD, Visual Analysis
-- Jie Bao, 2021 - Now, PhD, Visual Analysis
-- Chao Yuan, 2021 - Now, PhD, Intelligent Design
-- Xueyang Wang, 2021 - Now, PhD, Visual Communication Design
-- 2019 - Now , Yi Guo, PhD, Augumented Visual Analysis
-- 2019 - Now, Zui Chen, PhD, Visual Analysis, On leave for a startup company
-- 2018 - 2022, Xingyu Lan, PhD, Visual Communication Design, Asistant Professor at Fudan University
-- 2017 - 2022, Danqing Shi, PhD, Augumented Visual Analysis, Postdoc Researcher at Finnish Center for Artificial Intelligence
-- 2016 - 2020, Zhuochen Jin, PhD, Viusal Analysis on Healthcare, Researcher at Huawei Ltd.
-- 2016 - 2019, Shunan Guo, PhD, Viusla Analysis on Healthcare, Researcher at Adobe Research
+- Yi He, PhD, 2022 - Now, Visual Analysis
+- Jie Bao, PhD, 2021 - Now, Visual Analysis
+- Chao Yuan, PhD, 2021 - Now, Intelligent Design
+- Xueyang Wang, PhD, 2021 - Now, Visual Communication Design
+- Yi Guo, PhD, 2019 - Now, Augumented Visual Analysis
+- Zui Chen, PhD, 2019 - Now, Visual Analysis, On leave for a startup company
+- Xingyu Lan, PhD, 2018 - 2022, Visual Communication Design, Asistant Professor at Fudan University
+- Danqing Shi, PhD, 2017 - 2022, Augumented Visual Analysis, Postdoc Researcher at Finnish Center for Artificial Intelligence
+- Zhuochen Jin, PhD, 2016 - 2020, Viusal Analysis on Healthcare, Researcher at Huawei Ltd.
+- Shunan Guo, PhD, 2016 - 2019, Viusla Analysis on Healthcare, Researcher at Adobe Research
