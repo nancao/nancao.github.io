@@ -20,7 +20,7 @@ Nan Cao is the vice dean of Tongji College of Design and Innovation (Tongji D&I)
 
 [Google Scholar](https://scholar.google.com/citations?user=5I0mFcsAAAAJ), [DBLP](https://dblp.org/pid/66/5146.html)  
 
-### Awards:
+#### Awards:
 - 2023, AI 2000 Most Influential Scholar Award Honorable Mention in Visualization, AI Open Index
 - 2022, 2 Honorable Mention Awards, IEEE VIS
 - 2022, Intelligent Industrial Designer Top 20, Forbes China
@@ -30,7 +30,7 @@ Nan Cao is the vice dean of Tongji College of Design and Innovation (Tongji D&I)
 - 2014, Honorable Mention Award, IEEE VAST
 - 2005, Most Valuable Professional, Microsoft  
 
-### Services:
+#### Services:
 - Computer Science Review (IF:8.757, JCR Q1), Editoral Board
 - IEEE Transactions on Big Data (IF: 7.2, JCR Q1), Associate Editor
 - ACM CHI 2024, Associate Chair (Visualization Track)
@@ -38,7 +38,7 @@ Nan Cao is the vice dean of Tongji College of Design and Innovation (Tongji D&I)
 - IEEE PacificVis 2018, 2019, Paper Chair
 - ChinaVis 2017, 2018, Paper Chair
 
-### Students: 
+#### Students: 
 - Yi He, PhD, 2022 - Now, Visual Analysis
 - Jie Bao, PhD, 2021 - Now, Visual Analysis
 - Chao Yuan, PhD, 2021 - Now, Intelligent Design
