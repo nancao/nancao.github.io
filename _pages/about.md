@@ -39,13 +39,13 @@ Nan Cao is the vice dean of Tongji College of Design and Innovation (Tongji D&I)
 - ChinaVis 2017, 2018, Paper Chair
 
 ### Students: 
-- 2022 - Now , Yi He, PhD, 
-- 2021 - Now , Jie Bao, PhD, 
-- 2021 - Now , Chao Yuan, PhD, 
-- 2021 - Now , Xueyang Wang, PhD,
-- 2019 - Now , Yi Guo, PhD, 
-- 2019 - Onleave, Zui Chen, PhD, On leave for a startup company
-- 2018 - 2022, Xingyu Lan, PhD, Asistant Professor at Fudan University
-- 2017 - 2022, Danqing Shi, PhD, Postdoc Researcher at Finnish Center for Artificial Intelligence
-- 2016 - 2020, Zhuochen Jin, PhD, Researcher at Huawei Ltd.
-- 2016 - 2019, Shunan Guo, PhD, Researcher at Adobe Research
+- Yi He, 2022 - Now, PhD, Visual Analysis
+- Jie Bao, 2021 - Now, PhD, Visual Analysis
+- Chao Yuan, 2021 - Now, PhD, Intelligent Design
+- Xueyang Wang, 2021 - Now, PhD, Visual Communication Design
+- 2019 - Now , Yi Guo, PhD, Augumented Visual Analysis
+- 2019 - Now, Zui Chen, PhD, Visual Analysis, On leave for a startup company
+- 2018 - 2022, Xingyu Lan, PhD, Visual Communication Design, Asistant Professor at Fudan University
+- 2017 - 2022, Danqing Shi, PhD, Augumented Visual Analysis, Postdoc Researcher at Finnish Center for Artificial Intelligence
+- 2016 - 2020, Zhuochen Jin, PhD, Viusal Analysis on Healthcare, Researcher at Huawei Ltd.
+- 2016 - 2019, Shunan Guo, PhD, Viusla Analysis on Healthcare, Researcher at Adobe Research
