@@ -16,11 +16,12 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](https://tjdi.tongji.edu.cn/) (Tongji D&I) and a professor at [Tongji School of Software Engineering](https://sse.tongji.edu.cn/index.htm). He is the founding director of AI & Data design program and [intelligent big data visualization lab](https://idvxlab.com/) at Tongji University. Before joining Tongji, Nan Cao was a resaerch staff member at [IBM T. J. Watson Research Center](https://research.ibm.com/labs/watson/) in USA. He recieved the PhD degree in Computer Science and Engineering from the [Hong Kong University of Science and Technology](https://hkust.edu.hk/). His research interests are AI + (data visualization, visual anlyatics, information design, visual communication design, and human-computer interaction). He has pubilshed over 100 research papers in these fields.
+Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](https://tjdi.tongji.edu.cn/) (Tongji D&I) and a professor at [Tongji School of Software Engineering](https://sse.tongji.edu.cn/index.htm). He is the founding director of AI & Data design program and [intelligent big data visualization lab](https://idvxlab.com/) at Tongji University. Before joining Tongji, Nan Cao was a research staff member at [IBM T. J. Watson Research Center](https://research.ibm.com/labs/watson/) in USA. He received the PhD degree in Computer Science and Engineering from the [Hong Kong University of Science and Technology](https://hkust.edu.hk/). His research interests are AI + (data visualization, visual analytics, information design, visual communication design, and human-computer interaction). He has published over 100 research papers in these fields.
 
 [Recent Publications](https://idvxlab.com/publication.html) <code>|</code> [Google Scholar](https://scholar.google.com/citations?user=5I0mFcsAAAAJ) <code>|</code> [DBLP](https://dblp.org/pid/66/5146.html)
 
 #### Awards:
+- 2024, AI 2000 Most Influential Scholar Award Honorable Mention in Visualization, AI Open Index
 - 2023, Best Paper Award，IEEE VIS
 - 2023, Best Paper Honorable Mention, IEEE VIS
 - 2023, Best Poster Honorable Mention, IEEE VIS
