@@ -21,11 +21,13 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 [Recent Publications](https://idvxlab.com/publication.html) <code>|</code> [Google Scholar](https://scholar.google.com/citations?user=5I0mFcsAAAAJ) <code>|</code> [DBLP](https://dblp.org/pid/66/5146-1.html)
 
 #### Awards:
+- 2024, Top 2% Scientists, Stanford/Elsevier
 - 2024, Best Paper Honorable Mention, IEEE PacificVis
 - 2024, AI 2000 Most Influential Scholar Award Honorable Mention in Visualization, AI Open Index
 - 2023, Best Paper Award，IEEE VIS
 - 2023, Best Paper Honorable Mention, IEEE VIS
 - 2023, Best Poster Honorable Mention, IEEE VIS
+- 2023, Top 2% Scientists, Stanford/Elsevier
 - 2023, AI 2000 Most Influential Scholar Award Honorable Mention in Visualization, AI Open Index
 - 2022, 2 Best Paper Honorable Mention Awards, IEEE VIS
 - 2022, Intelligent Industrial Designer Top 20, Forbes China
@@ -44,12 +46,14 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - ChinaVis 2017, 2018, Paper Chair
 
 #### Students: 
-- Yi He, PhD, 2022 - Now, Visual Analysis
+- Yi He, PhD, 2023 - Now, LLM for Visual Narrative
+- Chuer Chen, PhD, 2022 - Now, Decision Models for Visual Design
 - Jie Bao, PhD, 2021 - Now, Visual Analysis
 - Chao Yuan, PhD, 2021 - Now, Intelligent Design
 - Xueyang Wang, PhD, 2021 - Now, Visual Communication Design
 - Yi Guo, PhD, 2019 - Now, Augumented Visual Analysis
 - Zui Chen, PhD, 2019 - Now, Visual Analysis, On leave for a startup company
+- Yi He, PhD, 2022 - Now, Visual Analysis, Researcher at Alibaba Ltd.
 - [Xingyu Lan](https://olivialan.github.io/), PhD, 2018 - 2022, Visual Communication Design, Asistant Professor at Fudan University
 - [Danqing Shi](https://sdq.github.io/), PhD, 2017 - 2022, Augumented Visual Analysis, Postdoc Researcher at Finnish Center for Artificial Intelligence
 - Zhuochen Jin, PhD, 2016 - 2020, Viusal Analysis on Healthcare, Researcher at Huawei Ltd.
