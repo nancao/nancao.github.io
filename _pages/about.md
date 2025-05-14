@@ -79,7 +79,7 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
   本科/硕士：卡耐基梅隆大学（人机交互）<br>
   研究方向：数字人交互设计
 - **陈最**（Zui Chen，休学创业），博士<br>
-  本科/硕士：密歇根州立大学（应用数学），<br>
+  本科/硕士：密歇根州立大学（应用数学）/ 帕森斯设计学院（信息设计）<br>
   研究方向：增强式大数据可视分析, On leave for a startup company
 - **郭熠**（Yi Guo，2022 - 2024，已毕业，现任 EBay 研究院人工智能研究员），博士<br>
   本科/硕士：多伦多大学（金融数学专业），<br>
