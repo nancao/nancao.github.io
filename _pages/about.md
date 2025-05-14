@@ -54,31 +54,31 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 
 
 #### PhD Students: 
-- Shengqi Dang (党圣奇，博士，同济大学，统计学)
-  PhD, 2025 - Now, Intelligent Design
-- Yiyu Chen（陈艺雨，直博，中科大少年班，人工智能）
-  PhD, 2025 - Now, Intelligent Design
-- Yike Wang (王亦可，博士，帝国理工学院 + 皇家艺术学院 双学位项目，人机交互),
-  PhD, 2024 - Now, Human Computer Interaction
-- Yi He（何一，直博，北京邮电大学，数字媒体技术）
-  PhD, 2022 - Now, LLM for Visual Narrative
-- Chuer Chen（陈楚儿， 博士，新加坡国立大学， 电子工程）
-  PhD, 2022 - Now, Decision Models for Visual Design
-- Jie Bao（鲍捷，博士， 上海交通大学，计算机科学与技术）
-  PhD, 2021 - Now, Visual Analysis
-- Chao Yuan（袁潮，博士，清华大学，工业设计）
-  PhD, 2021 - Now, Intelligent Design
-- Xueyang Wang（汪雪阳，博士，卡耐基梅隆大学CMU，人机交互）
-  PhD, 2021 - Now, Visual Communication Design
-- Zui Chen（陈最，博士，密歇根州立大学，应用数学）
-  PhD, 2019 - Now, Visual Analysis, On leave for a startup company
-- Yi Guo, （郭熠，博士，多伦多大学， 应用数据）
-  PhD, 2022 - Now, Augmented Visual Analysis, Researcher at Alibaba Ltd.
-- [Xingyu Lan](https://olivialan.github.io/) （蓝星宇，博士，北京大学，新闻传媒）
-  PhD, 2018 - 2022, Visual Communication Design, Asistant Professor at Fudan University
-- [Danqing Shi](https://sdq.github.io/)（史丹清，博士，本、同济大学，电子工程）
-  PhD, 2017 - 2022, Augmented Visual Analysis, Postdoc Researcher at Finnish Center for Artificial Intelligence
-- Zhuochen Jin（金卓宸，直博，浙江大竺可桢学院，应用数学）
+- 党圣奇（Shengqi Dang），博士，同济大学，统计学，<br>
+  PhD, 2025 - Now, 博士研究方向：图形学与可微仿真
+- 陈艺雨（Yiyu Chen），直博，中科大少年班，人工智能专业，
+  PhD, 2025 - Now, 博士研究方向：人机交互
+- 王亦可（Yike Wang），博士，帝国理工学院 + 皇家艺术学院（双学位），人机交互专业，
+  PhD, 2024 - Now, 博士研究方向：人机交互
+- 何一（Yi He），直博，北京邮电大学，数字媒体技术，
+  PhD, 2022 - Now, 博士研究方向：智能设计（Agent设计）
+- 陈楚儿（Chuer Chen），博士，新加坡国立大学，电子工程专业，
+  PhD, 2022 - Now, 博士研究方向：智能设计（决策模型）
+- 鲍捷（Jie Bao），博士， 上海交通大学，计算机科学与技术，
+  PhD, 2021 - Now, 博士研究方向：因果关系可视分析
+- 袁潮（Chao Yuan），博士，清华大学，工业设计专业，
+  PhD, 2021 - Now, 博士研究方向：智能设计（智能制造与智能建造）
+- 汪雪阳（Xueyang Wang），博士，卡耐基梅隆大学，人机交互专业，
+  PhD, 2021 - Now, 博士研究方向：数字人交互设计
+- 陈最（Zui Chen，休学创业），博士，密歇根州立大学，应用数学，
+  PhD, 2019 - 2020, 博士研究方向：增强式大数据可视分析, On leave for a startup company
+- 郭熠（Yi Guo，已毕业，现就职于EBay），博士，多伦多大学， 金融数学专业，
+  PhD, 2022 - 2024, 博士研究方向：增强式大数据可视分析。
+- [蓝星宇 (Xingyu Lan，已毕业，现为复旦大学新闻学院助理教授)](https://olivialan.github.io/)，博士，北京大学，新闻传媒专业，
+  PhD, 2018 - 2022, 研究方向：信息传达设计。
+- [史丹青 (Danqing Shi，已毕业，现任芬兰人工智能中心研究院)](https://sdq.github.io/), 博士，同济大学，通讯工程专业，
+  PhD, 2017 - 2022, 博士研究方向：增强式大数据可视分析。 
+- 金卓宸 (Zhuochen Jin，已毕业），直博，浙江大竺可桢学院，统计专业，
   PhD, 2016 - 2020, Visual Analysis on Healthcare, Researcher at Huawei Ltd.
-- [Shunan Guo](https://research.adobe.com/person/shunan-guo/)（郭姝男，直博，本科毕业自华东师范大学，软件工程）
-  PhD, 2016 - 2019, Visual Analysis on Healthcare, Researcher at Adobe Research
+- [郭姝男(Shunan Guo, 已毕业)](https://research.adobe.com/person/shunan-guo/)，直博，华东师范大学，软件工程专业
+  PhD, 2016 - 2019, Visual Analysis on Healthcare, Researcher at Adobe Research（USA）
