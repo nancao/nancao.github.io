@@ -54,45 +54,45 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 
 
 #### PhD Students: 
-- 党圣奇（Shengqi Dang, 2025 - Now），博士<br>
+- **党圣奇**（Shengqi Dang, 2025 - Now），博士<br>
   本科/硕士：同济大学，统计学专业 <br>
   博士研究方向：图形学与可微仿真
-- 陈艺雨（Yiyu Chen, 2025 - Now），直博<br>
+- **陈艺雨**（Yiyu Chen, 2025 - Now），直博<br>
   本科/硕士：中科大少年班（人工智能）<br>
   博士研究方向：智能设计（仿生设计）
-- 王亦可（Yike Wang, 2024 - Now），博士<br>
+- **王亦可**（Yike Wang, 2024 - Now），博士<br>
   本科/硕士：帝国理工学院 + 皇家艺术学院（人机交互双学位） <br>
   博士研究方向：人机交互
-- 何一（Yi He, 2022 - Now），直博<br>
+- **何一**（Yi He, 2022 - Now），直博<br>
   本科/硕士：北京邮电大学，数字媒体技术 <br>
   博士研究方向：智能设计（Agent设计）
-- 陈楚儿（Chuer Chen, 2022 - Now），博士<br>
+- **陈楚儿**（Chuer Chen, 2022 - Now），博士<br>
   本科/硕士：北京理工大学（电子工程）/ 新加坡国立大学（计算机科学与技术）<br>
   博士研究方向：智能设计（设计决策模型）
-- 鲍捷（Jie Bao， 2021 - Now），博士<br>
+- **鲍捷**（Jie Bao， 2021 - Now），博士<br>
   本科/硕士：上海交通大学（计算机科学与技术）<br>
   博士研究方向：因果关系可视分析
-- 袁潮（Chao Yuan，2021 - Now），博士<br>
+- **袁潮**（Chao Yuan，2021 - Now），博士<br>
   本科/硕士：清华大学（工业设计）<br>
   博士研究方向：智能设计（4D打印与智能制造）
-- 汪雪阳（Xueyang Wang，2021 - Now），博士<br>
+- **汪雪阳**（Xueyang Wang，2021 - Now），博士<br>
   本科/硕士：卡耐基梅隆大学（人机交互）<br>
   博士研究方向：数字人交互设计
-- 陈最（Zui Chen，休学创业），博士<br>
+- **陈最**（Zui Chen，休学创业），博士<br>
   本科/硕士：密歇根州立大学（应用数学），<br>
   博士研究方向：增强式大数据可视分析, On leave for a startup company
-- 郭熠（Yi Guo，2022 - 2024，已毕业，现任 EBay 研究院），博士<br>
+- **郭熠**（Yi Guo，2022 - 2024，已毕业，现任 EBay 研究院），博士<br>
   本科/硕士：多伦多大学（金融数学专业），<br>
   博士研究方向：增强式大数据可视分析。
-- [蓝星宇 (Xingyu Lan，2018 - 2022，现任复旦大学助理教授)](https://olivialan.github.io/)，博士<br>
+- [**蓝星宇** (Xingyu Lan，2018 - 2022，现任复旦大学助理教授)](https://olivialan.github.io/)，博士<br>
   本科/硕士：北京大学（社会科学）/ 北京大学（新闻传媒）<br>
   博士研究方向：信息传达设计（情感可视化设计）。
-- [史丹青 (Danqing Shi，2017 - 2022，现任芬兰人工智能中心研究员)](https://sdq.github.io/), 博士<br>
+- [**史丹青** (Danqing Shi，2017 - 2022，现任芬兰人工智能中心研究员)](https://sdq.github.io/), 博士<br>
   本科/硕士：同济大学（通讯工程）<br>
   博士研究方向：增强式大数据可视分析。 
-- 金卓宸 (Zhuochen Jin，2016 - 2020，现任华为云研究员），直博，<br>
+- **金卓宸** (Zhuochen Jin，2016 - 2020，现任华为云研究员），直博，<br>
   本科/硕士：浙江大学（竺可桢学院，统计专业）<br>
   博士研究方向：面向智慧医疗数据的可视分析技术
-- [郭姝男(Shunan Guo，2016 - 2019，现任美国 Adobe Research 研究员)](https://research.adobe.com/person/shunan-guo/)，直博 <br>
+- [**郭姝男**(Shunan Guo，2016 - 2019，现任美国 Adobe Research 研究员)](https://research.adobe.com/person/shunan-guo/)，直博 <br>
   本科/硕士：华东师范大学（软件工程）<br>
   博士研究方向：面向智慧医疗数据的可视分析技术
