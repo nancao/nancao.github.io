@@ -53,7 +53,7 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 
 #### PhD Students: 
 - Shengqi Dang (党圣奇，博士，同济大学，统计学)
-  PhD, 2025 - Now, Computer Graphics & AIGC
+  PhD, 2025 - Now, Intelligent Design
 - Yiyu Chen（陈艺雨，直博，中科大少年班，人工智能）
   PhD, 2025 - Now, Intelligent Design
 - Yike Wang (王亦可，博士，帝国理工学院 + 皇家艺术学院 双学位项目，人机交互),
@@ -79,4 +79,4 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - Zhuochen Jin（金卓宸，直博，浙江大竺可桢学院，应用数学）
   PhD, 2016 - 2020, Visual Analysis on Healthcare, Researcher at Huawei Ltd.
 - [Shunan Guo](https://research.adobe.com/person/shunan-guo/)（郭姝男，直博，本科毕业自华东师范大学，软件工程）
-  PhD, 2016 - 2019, Viusla Analysis on Healthcare, Researcher at Adobe Research
+  PhD, 2016 - 2019, Visual Analysis on Healthcare, Researcher at Adobe Research
