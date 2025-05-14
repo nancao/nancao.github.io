@@ -40,14 +40,19 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - 2005, Most Valuable Professional, Microsoft  
 
 #### Services:
-- Computer Science Review (IF:12.9, JCR Q1), Editorial Board
+- Computer Science Review (IF:13.2, JCR Q1), Editorial Board
 - IEEE Transactions on Big Data (IF: 7.2, JCR Q1), Associate Editor
 - ACM CHI 2024, Associate Chair
 - IEEE VIS 2023, Poster Chair
 - IEEE PacificVis 2018, 2019, Paper Chair
 - ChinaVis 2017, 2018, Paper Chair
 
-#### Students: 
+#### Postdoctoral researcher: 
+- Shixiong Cao (曹世雄，博士后，博士毕业子韩国成均馆大学设计学院）
+- Zhigu Qian (钱芝谷，博士后，博士毕业子复旦大学计算机学院）
+
+#### PhD Students: 
+- Yike Wang (王亦可，博士生，硕士毕业自帝国理工学院 及 皇家艺术学院 双学位项目，人机交互), PhD, 2024 - Now, Human Computer Interaction
 - Yi He（何一，直博生，本科毕业自北京邮电大学，数字媒体技术）, PhD, 2022 - Now, LLM for Visual Narrative
 - Chuer Chen（陈楚儿， 博士生，硕士毕业自新加坡国立大学， 电子工程）, PhD, 2022 - Now, Decision Models for Visual Design
 - Jie Bao（鲍捷，博士生， 硕士毕业子上海交通大学，计算机科学与技术）, PhD, 2021 - Now, Visual Analysis
