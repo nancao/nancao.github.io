@@ -16,7 +16,9 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](https://tjdi.tongji.edu.cn/) (Tongji D&I) and a professor at [Tongji School of Software Engineering](https://sse.tongji.edu.cn/index.htm). He is the founding director of AI & Data design program and [intelligent big data visualization lab](https://idvxlab.com/) at Tongji University. Before joining Tongji, Nan Cao was a research staff member at [IBM T. J. Watson Research Center](https://research.ibm.com/labs/watson/) in USA. He received a PhD degree in Computer Science and Engineering from the [Hong Kong University of Science and Technology](https://hkust.edu.hk/). His research interests are AI + (data visualization, information design, visual communication design, and human-computer interaction). He has published over 100 research papers in these fields.
+Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](https://tjdi.tongji.edu.cn/) (Tongji D&I) and a professor at [Tongji School of Software Engineering](https://sse.tongji.edu.cn/index.htm). He is the founding director of AI & Data design program and [intelligent big data visualization lab](https://idvxlab.com/) at Tongji University. Before joining Tongji, Nan Cao was a research staff member at [IBM T. J. Watson Research Center](https://research.ibm.com/labs/watson/) in USA. He received a PhD degree in Computer Science and Engineering from the [Hong Kong University of Science and Technology](https://hkust.edu.hk/). His research interests are AI + (data visualization, information design, visual communication design, and human-computer interaction). He has published over 150 research papers in these fields.
+
+曹楠是同济大学设计创意学院的教授，上海自主智能无人系统中心、同济大学计算机学院双聘教授，上海创智学博士生院全时导师。加入同济之前，曹楠先后担任了纽约大学/上海纽约大学助理教授 及 IBM T.J. Watson Research Center 高级研究员。他专注于智能信息设计（数据可视化）、工业设计（计算机图形学）、交互设计（人机交互）领域的研究工作。在相关领域累计发表 150 余篇论文（CCF-A 类论文 70 余篇）。 他在该领域曾主持过国家重点研发计划课题、自然科学基金等 4 项国家级基金项目，累计获批纵向科研经费（1500 余万元）。他的技术被广泛的应用在了 智能制造、智慧医疗、智慧城市等领域。
 
 [Recent Publications](https://idvxlab.com/publication.html) <code>|</code> [Google Scholar](https://scholar.google.com/citations?user=5I0mFcsAAAAJ) <code>|</code> [DBLP](https://dblp.org/pid/66/5146-1.html)
 
@@ -46,14 +48,14 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - ChinaVis 2017, 2018, Paper Chair
 
 #### Students: 
-- Yi He, PhD, 2022 - Now, LLM for Visual Narrative
-- Chuer Chen, PhD, 2022 - Now, Decision Models for Visual Design
-- Jie Bao, PhD, 2021 - Now, Visual Analysis
-- Chao Yuan, PhD, 2021 - Now, Intelligent Design
-- Xueyang Wang, PhD, 2021 - Now, Visual Communication Design
-- Zui Chen, PhD, 2019 - Now, Visual Analysis, On leave for a startup company
-- Yi Guo, PhD, 2022 - Now, Augmented Visual Analysis, Researcher at Alibaba Ltd.
-- [Xingyu Lan](https://olivialan.github.io/), PhD, 2018 - 2022, Visual Communication Design, Asistant Professor at Fudan University
-- [Danqing Shi](https://sdq.github.io/), PhD, 2017 - 2022, Augmented Visual Analysis, Postdoc Researcher at Finnish Center for Artificial Intelligence
-- Zhuochen Jin, PhD, 2016 - 2020, Visual Analysis on Healthcare, Researcher at Huawei Ltd.
-- [Shunan Guo](https://research.adobe.com/person/shunan-guo/), PhD, 2016 - 2019, Viusla Analysis on Healthcare, Researcher at Adobe Research
+- Yi He（何一，直博生，本科毕业自北京邮电大学，数字媒体技术）, PhD, 2022 - Now, LLM for Visual Narrative
+- Chuer Chen（陈楚儿， 博士生，硕士毕业自新加坡国立大学， 电子工程）, PhD, 2022 - Now, Decision Models for Visual Design
+- Jie Bao（鲍捷，博士生， 硕士毕业子上海交通大学，计算机科学与技术）, PhD, 2021 - Now, Visual Analysis
+- Chao Yuan（袁潮，博士生，硕士毕业自清华大学，工业设计）, PhD, 2021 - Now, Intelligent Design
+- Xueyang Wang（汪雪阳，博士生，硕士毕业自美国卡耐基梅隆大学，人机交互）, PhD, 2021 - Now, Visual Communication Design
+- Zui Chen（陈最，博士生，硕士毕业自密歇根州立大学，应用数学） PhD, 2019 - Now, Visual Analysis, On leave for a startup company
+- Yi Guo, （郭熠，博士生，硕士毕业自多伦多大学， 应用数据）PhD, 2022 - Now, Augmented Visual Analysis, Researcher at Alibaba Ltd.
+- [Xingyu Lan](https://olivialan.github.io/) （兰星宇，博士生，本、硕毕业自北京大学，新闻传媒）, PhD, 2018 - 2022, Visual Communication Design, Asistant Professor at Fudan University
+- [Danqing Shi](https://sdq.github.io/)（史丹清，博士生，本、硕毕业自同济大学，电子工程）, PhD, 2017 - 2022, Augmented Visual Analysis, Postdoc Researcher at Finnish Center for Artificial Intelligence
+- Zhuochen Jin（金卓宸，直博生，本科毕业自浙江大竺可桢学院，应用数学）, PhD, 2016 - 2020, Visual Analysis on Healthcare, Researcher at Huawei Ltd.
+- [Shunan Guo](https://research.adobe.com/person/shunan-guo/)（郭姝男，直博生，本科毕业自华东师范大学，软件工程）, PhD, 2016 - 2019, Viusla Analysis on Healthcare, Researcher at Adobe Research
