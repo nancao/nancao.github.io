@@ -52,6 +52,8 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - Zhigu Qian (钱芝谷，博士后，博士毕业自复旦大学计算机学院），2025 - Now
 
 #### PhD Students: 
+- Shengqi Dang (党圣奇，博士，同济大学，统计学)
+  PhD, 2025 - Now, Computer Graphics & AIGC
 - Yiyu Chen（陈艺雨，直博，中科大少年班，人工智能）
   PhD, 2025 - Now, Intelligent Design
 - Yike Wang (王亦可，博士，帝国理工学院 + 皇家艺术学院 双学位项目，人机交互),
