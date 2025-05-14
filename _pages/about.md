@@ -52,15 +52,27 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - Zhigu Qian (钱芝谷，博士后，博士毕业子复旦大学计算机学院）
 
 #### PhD Students: 
-- Yike Wang (王亦可，博士生，硕士毕业自帝国理工学院 及 皇家艺术学院 双学位项目，人机交互), PhD, 2024 - Now, Human Computer Interaction
-- Yi He（何一，直博生，本科毕业自北京邮电大学，数字媒体技术）, PhD, 2022 - Now, LLM for Visual Narrative
-- Chuer Chen（陈楚儿， 博士生，硕士毕业自新加坡国立大学， 电子工程）, PhD, 2022 - Now, Decision Models for Visual Design
-- Jie Bao（鲍捷，博士生， 硕士毕业子上海交通大学，计算机科学与技术）, PhD, 2021 - Now, Visual Analysis
-- Chao Yuan（袁潮，博士生，硕士毕业自清华大学，工业设计）, PhD, 2021 - Now, Intelligent Design
-- Xueyang Wang（汪雪阳，博士生，硕士毕业自美国卡耐基梅隆大学，人机交互）, PhD, 2021 - Now, Visual Communication Design
-- Zui Chen（陈最，博士生，硕士毕业自密歇根州立大学，应用数学） PhD, 2019 - Now, Visual Analysis, On leave for a startup company
-- Yi Guo, （郭熠，博士生，硕士毕业自多伦多大学， 应用数据）PhD, 2022 - Now, Augmented Visual Analysis, Researcher at Alibaba Ltd.
-- [Xingyu Lan](https://olivialan.github.io/) （兰星宇，博士生，本、硕毕业自北京大学，新闻传媒）, PhD, 2018 - 2022, Visual Communication Design, Asistant Professor at Fudan University
-- [Danqing Shi](https://sdq.github.io/)（史丹清，博士生，本、硕毕业自同济大学，电子工程）, PhD, 2017 - 2022, Augmented Visual Analysis, Postdoc Researcher at Finnish Center for Artificial Intelligence
-- Zhuochen Jin（金卓宸，直博生，本科毕业自浙江大竺可桢学院，应用数学）, PhD, 2016 - 2020, Visual Analysis on Healthcare, Researcher at Huawei Ltd.
-- [Shunan Guo](https://research.adobe.com/person/shunan-guo/)（郭姝男，直博生，本科毕业自华东师范大学，软件工程）, PhD, 2016 - 2019, Viusla Analysis on Healthcare, Researcher at Adobe Research
+- Yike Wang (王亦可，博士生，硕士毕业自帝国理工学院 及 皇家艺术学院 双学位项目，人机交互),
+  PhD, 2024 - Now, Human Computer Interaction
+- Yi He（何一，直博生，本科毕业自北京邮电大学，数字媒体技术）
+  PhD, 2022 - Now, LLM for Visual Narrative
+- Chuer Chen（陈楚儿， 博士生，硕士毕业自新加坡国立大学， 电子工程）
+  PhD, 2022 - Now, Decision Models for Visual Design
+- Jie Bao（鲍捷，博士生， 硕士毕业子上海交通大学，计算机科学与技术）
+  PhD, 2021 - Now, Visual Analysis
+- Chao Yuan（袁潮，博士生，硕士毕业自清华大学，工业设计）
+  PhD, 2021 - Now, Intelligent Design
+- Xueyang Wang（汪雪阳，博士生，硕士毕业自美国卡耐基梅隆大学，人机交互）
+  PhD, 2021 - Now, Visual Communication Design
+- Zui Chen（陈最，博士生，硕士毕业自密歇根州立大学，应用数学）
+  PhD, 2019 - Now, Visual Analysis, On leave for a startup company
+- Yi Guo, （郭熠，博士生，硕士毕业自多伦多大学， 应用数据）
+  PhD, 2022 - Now, Augmented Visual Analysis, Researcher at Alibaba Ltd.
+- [Xingyu Lan](https://olivialan.github.io/) （兰星宇，博士生，本、硕毕业自北京大学，新闻传媒）
+  PhD, 2018 - 2022, Visual Communication Design, Asistant Professor at Fudan University
+- [Danqing Shi](https://sdq.github.io/)（史丹清，博士生，本、硕毕业自同济大学，电子工程）
+  PhD, 2017 - 2022, Augmented Visual Analysis, Postdoc Researcher at Finnish Center for Artificial Intelligence
+- Zhuochen Jin（金卓宸，直博生，本科毕业自浙江大竺可桢学院，应用数学）
+  PhD, 2016 - 2020, Visual Analysis on Healthcare, Researcher at Huawei Ltd.
+- [Shunan Guo](https://research.adobe.com/person/shunan-guo/)（郭姝男，直博生，本科毕业自华东师范大学，软件工程）
+  PhD, 2016 - 2019, Viusla Analysis on Healthcare, Researcher at Adobe Research
