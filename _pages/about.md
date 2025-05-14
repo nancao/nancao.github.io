@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](https://tjdi.tongji.edu.cn/) (Tongji D&I) and a professor at [Tongji School of Software Engineering](https://sse.tongji.edu.cn/index.htm). He is the founding director of AI & Data design program and [intelligent big data visualization lab](https://idvxlab.com/) at Tongji University. Before joining Tongji, Nan Cao was a research staff member at [IBM T. J. Watson Research Center](https://research.ibm.com/labs/watson/) in USA. He received a PhD degree in Computer Science and Engineering from the [Hong Kong University of Science and Technology](https://hkust.edu.hk/). His research interests are AI + (data visualization, information design, visual communication design, and human-computer interaction). He has published over 150 research papers in these fields.
 
-曹楠是同济大学设计创意学院的教授，上海自主智能无人系统中心、同济大学计算机学院双聘教授，上海创智学博士生院全时导师。加入同济之前，曹楠先后担任了纽约大学/上海纽约大学助理教授 及 IBM T.J. Watson Research Center 高级研究员。他专注于智能信息设计（数据可视化）、工业设计（计算机图形学）、交互设计（人机交互）领域的研究工作。在相关领域累计发表 150 余篇论文（CCF-A 类论文 70 余篇）。 他在该领域曾主持过国家重点研发计划课题、自然科学基金等 4 项国家级基金项目，累计获批纵向科研经费（1500 余万元）。他的技术被广泛的应用在了 智能制造、智慧医疗、智慧城市等领域。
+曹楠是同济大学设计创意学院的教授，上海自主智能无人系统科学中心、同济大学计算机学院双聘教授，上海创智学博士生院全时导师。加入同济之前，曹楠先后担任了纽约大学/上海纽约大学助理教授 及 IBM T.J. Watson Research Center 高级研究员。他专注于智能信息设计（数据可视化）、工业设计（计算机图形学）、交互设计（人机交互）领域的研究工作。在相关领域累计发表 150 余篇论文（CCF-A 类论文 70 余篇）。 他在该领域曾主持过国家重点研发计划课题、自然科学基金等 4 项国家级基金项目，累计获批纵向科研经费（1500 余万元）。他的技术被广泛的应用在了 智能制造、智慧医疗、智慧城市等领域。
 
 [Recent Publications](https://idvxlab.com/publication.html) <code>|</code> [Google Scholar](https://scholar.google.com/citations?user=5I0mFcsAAAAJ) <code>|</code> [DBLP](https://dblp.org/pid/66/5146-1.html)
 
