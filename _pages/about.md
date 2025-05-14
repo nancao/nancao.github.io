@@ -74,7 +74,7 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
   PhD, 2019 - Now, Visual Analysis, On leave for a startup company
 - Yi Guo, （郭熠，博士，多伦多大学， 应用数据）
   PhD, 2022 - Now, Augmented Visual Analysis, Researcher at Alibaba Ltd.
-- [Xingyu Lan](https://olivialan.github.io/) （兰星宇，博士，北京大学，新闻传媒）
+- [Xingyu Lan](https://olivialan.github.io/) （蓝星宇，博士，北京大学，新闻传媒）
   PhD, 2018 - 2022, Visual Communication Design, Asistant Professor at Fudan University
 - [Danqing Shi](https://sdq.github.io/)（史丹清，博士，本、同济大学，电子工程）
   PhD, 2017 - 2022, Augmented Visual Analysis, Postdoc Researcher at Finnish Center for Artificial Intelligence
