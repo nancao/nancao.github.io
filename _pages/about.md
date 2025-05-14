@@ -80,10 +80,10 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
   研究方向：数字人交互设计
 - [**郭熠**（Yi Guo，2022 - 2024，现任 PayPal 人工智能研究员）](https://scholar.google.ca/citations?user=9fDFvb8AAAAJ&hl=en)，博士<br>
   本科/硕士：多伦多大学（金融数学专业），<br>
-  研究方向：增强式大数据可视分析。
+  研究方向：增强式大数据可视分析
 - [**蓝星宇** (Xingyu Lan，2018 - 2022，现任复旦大学助理教授)](https://olivialan.github.io/)，博士<br>
   本科/硕士：北京大学（社会科学）/ 北京大学（新闻传媒）<br>
-  研究方向：信息传达设计（情感可视化设计）。
+  研究方向：信息传达设计（情感可视化设计）
 - [**史丹青** (Danqing Shi，2017 - 2022，现任芬兰人工智能中心研究员)](https://sdq.github.io/)，博士<br>
   本科/硕士：同济大学（通讯工程）<br>
   研究方向：增强式大数据可视分析。 
