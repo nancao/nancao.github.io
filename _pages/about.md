@@ -74,6 +74,10 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
   <font size=2>专业背景：帝国理工学院 + 皇家艺术学院（创新设计工程双学位） <br>
   研究方向：人机交互（适老性设计）<br>
   联系方式：yklauriewang (at) gmail.com</font>
+- **王嘉喆**（Yi He, 2023 - Now），在职博士 (设计创意学院) <br>
+  <font size=2>专业背景：牛津大学（数据可视化），现任阿里集团高级前端工程师 <br>
+  研究方向：智能设计（智能用户界面）<br>
+  联系方式：</font>
 - **何一**（Yi He, 2023 - Now），直博 (设计创意学院) <br>
   <font size=2>专业背景：北京邮电大学，数字媒体技术 <br>
   研究方向：智能设计（设计智能体）<br>
