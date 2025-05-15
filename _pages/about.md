@@ -7,7 +7,7 @@ subtitle: <a href='https://idvxlab.com/'>Intelligent Big Data Visualization Lab<
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>nan.cao(at)gmail.com, Room is218A, 281 Fuxin Road, Shanghai, China</p>
 
