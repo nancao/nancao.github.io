@@ -52,14 +52,18 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - Zhigu Qian (钱芝谷，博士后，博士毕业自复旦大学计算机学院），2025 - Now
 
 #### PhD Students: 
-- **党圣奇**（Shengqi Dang, 2025 - Now），博士 (上海创智学院) <br>
-  <font size=2>专业背景：同济大学，基础学科拔尖班（数学） <br>
-  研究方向： 目标导向的 AIGC 生成模型 <br>
-  联系方式：dangsq123 (at) tongji.edu.cn</font>
 - **陈艺雨**（Yiyu Chen, 2025 - Now），直博 (设计创意学院) <br>
   <font size=2>专业背景：中科大少年班（人工智能）<br>
   研究方向：智能设计（仿生设计）<br>
   联系方式：</font>
+- **党圣奇**（Shengqi Dang, 2025 - Now），博士 (上海创智学院) <br>
+  <font size=2>专业背景：同济大学，基础学科拔尖班（数学） <br>
+  研究方向： 目标导向的 AIGC 生成模型 <br>
+  联系方式：dangsq123 (at) tongji.edu.cn</font>
+- **钱姿青**（Ziqing Qian, 2024 - Now），博士 (自主智能科学中心) <br>
+  <font size=2>专业背景：同济大学，国豪班强基计划（物理） <br>
+  研究方向：复杂网络可视分析 <br>
+  联系方式：qianziqing0719 (at) gmail.com </font>
 - **王亦可**（Yike Wang, 2024 - Now），博士 (设计创意学院) <br>
   <font size=2>专业背景：帝国理工学院 + 皇家艺术学院（创新设计工程双学位） <br>
   研究方向：人机交互（适老性设计）<br>
