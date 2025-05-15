@@ -57,7 +57,7 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
   研究方向： 目标导向的 AIGC 生成模型 <br>
   联系方式：dangsq123 (at) tongji.edu.cn</font>
 - **陈艺雨**（Yiyu Chen, 2025 - Now），直博 (设计创意学院) <br>
-  <font size=2>本科/硕士：中科大少年班（人工智能）<br>
+  <font size=2>专业背景：中科大少年班（人工智能）<br>
   研究方向：智能设计（仿生设计）<br>
   联系方式：</font>
 - **王亦可**（Yike Wang, 2024 - Now），博士 (设计创意学院) <br>
