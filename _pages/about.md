@@ -47,11 +47,9 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - IEEE PacificVis 2018, 2019, Paper Chair
 - ChinaVis 2017, 2018, Paper Chair
 
-
 #### Postdoctoral Researcher: 
 - Shixiong Cao (曹世雄，博士后，博士毕业自韩国成均馆大学设计学院），2023 - Now
 - Zhigu Qian (钱芝谷，博士后，博士毕业自复旦大学计算机学院），2025 - Now
-
 
 #### PhD Students: 
 - **党圣奇**（Shengqi Dang, 2025 - Now），博士 (上海创智学院) <br>
@@ -65,7 +63,7 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - **王亦可**（Yike Wang, 2024 - Now），博士 (设计创意学院) <br>
   本科/硕士：帝国理工学院 + 皇家艺术学院（人机交互双学位） <br>
   研究方向：人机交互（适老性设计）<br>
-  联系方式：
+  联系方式：yklauriewang (at) gmail.com
 - **何一**（Yi He, 2023 - Now），直博 (设计创意学院) <br>
   本科/硕士：北京邮电大学，数字媒体技术 <br>
   研究方向：智能设计（设计智能题）<br>
