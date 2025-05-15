@@ -59,7 +59,7 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - **陈艺雨**（Yiyu Chen, 2025 - Now），直博 (设计创意学院) <br>
   <font size=2>专业背景：中科大少年班（人工智能）<br>
   研究方向：智能设计（仿生设计）<br>
-  联系方式：cyy2730039850 (at) mail.ustc.edu.cn</font>
+  联系方式：yiyu.chen (at) mail.ustc.edu.cn</font>
 - **党圣奇**（Shengqi Dang, 2025 - Now），博士 (上海创智学院) <br>
   <font size=2>专业背景：同济大学，基础学科拔尖班（数学） <br>
   研究方向： 目标导向的 AIGC 生成模型 <br>
