@@ -89,15 +89,15 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - [**郭熠**（Yi Guo，2022 - 2024，现任 PayPal 人工智能研究员）](https://scholar.google.ca/citations?user=9fDFvb8AAAAJ&hl=en)，博士<br>
   本科/硕士：多伦多大学（金融数学专业），<br>
   研究方向：增强式大数据可视分析
-- [**蓝星宇** (Xingyu Lan，2018 - 2022，现任复旦大学助理教授)](https://olivialan.github.io/)，博士<br>
+- [**蓝星宇** (Xingyu Lan，2018 - 2022，现任复旦大学助理教授)](https://olivialan.github.io/)，博士（设计创意学院）<br>
   本科/硕士：北京大学（社会科学）/ 北京大学（新闻传媒）<br>
   研究方向：信息传达设计（情感可视化设计）
-- [**史丹青** (Danqing Shi，2017 - 2022，现任芬兰人工智能中心研究员)](https://sdq.github.io/)，博士<br>
+- [**史丹青** (Danqing Shi，2017 - 2022，现任芬兰人工智能中心研究员)](https://sdq.github.io/)，博士（设计创意学院）<br>
   本科/硕士：同济大学（通讯工程）<br>
   研究方向：增强式大数据可视分析
-- [**金卓宸** (Zhuochen Jin，2016 - 2020，现任华为云研究员）](https://scholar.google.ca/citations?user=Iq-HlisAAAAJ&hl=zh-CN)，直博<br>
+- [**金卓宸** (Zhuochen Jin，2016 - 2020，现任华为云研究员）](https://scholar.google.ca/citations?user=Iq-HlisAAAAJ&hl=zh-CN)，直博（设计创意学院）<br>
   本科/硕士：浙江大学（竺可桢学院，统计专业）<br>
   研究方向：面向智慧医疗数据的可视分析技术
-- [**郭姝男** (Shunan Guo，2016 - 2019，现任美国 Adobe Research 研究员)](https://research.adobe.com/person/shunan-guo/)，直博<br>
+- [**郭姝男** (Shunan Guo，2016 - 2019，现任美国 Adobe Research 研究员)](https://research.adobe.com/person/shunan-guo/)，直博（设计创意学院）<br>
   本科/硕士：华东师范大学（软件工程）<br>
   研究方向：面向智慧医疗数据的可视分析技术
