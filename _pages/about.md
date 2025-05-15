@@ -104,12 +104,12 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - [**史丹青**](https://sdq.github.io/)(Danqing Shi，2017 - 2022，4 年毕业)，博士（设计创意学院）<br>
   <font size=2>专业背景：同济大学（通讯工程）<br>
   研究方向：可视分析（增强式大数据可视分）<br>
-  就业工作：现任芬兰人工智能中心研究员</font>
+  就业工作：现任芬兰人工智能中心研究员，英国剑桥大学博士后</font>
 - [**金卓宸**](https://scholar.google.ca/citations?user=Iq-HlisAAAAJ&hl=zh-CN)(Zhuochen Jin，2016 - 2020，4 年毕业），直博（设计创意学院）<br>
   <font size=2>专业背景：浙江大学（竺可桢学院，统计专业）<br>
   研究方向：可视分析（面向智慧医疗数据的可视分析技术） <br>
   就业工作：现任华为云研究员</font>
 - [**郭姝男**](https://research.adobe.com/person/shunan-guo/)(Shunan Guo，2016 - 2019，3.5 年毕业)，直博（软件学院）<br>
   <font size=2>专业背景：华东师范大学（软件工程）<br>
-  研究方向：可视分析（面向智慧医疗数据的可视分析技术）
+  研究方向：可视分析（面向智慧医疗数据的可视分析技术）<br>
   就业工作：现任美国 Adobe Research 研究员</font>
