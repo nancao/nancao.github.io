@@ -79,7 +79,7 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - **袁潮**（Chao Yuan，2021 - Now），博士（自主智能科学中心）<br>
   <font size=2>专业背景：清华大学（工业设计）<br>
   研究方向：智能设计（4D打印与智能制造）<br>
-  联系方式：1037303749 (at) qq.com</font>
+  联系方式：chaoyuan.idvx (at) gmail.com </font>
 - **汪雪阳**（Xueyang Wang，2021 - Now），博士（设计创意学院）<br>
   <font size=2>专业背景：卡耐基梅隆大学（人机交互与游戏设计）<br>
   研究方向：数字人交互设计<br>
