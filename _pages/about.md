@@ -62,11 +62,11 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
   联系方式：yiyu.chen (at) mail.ustc.edu.cn</font>
 - **党圣奇**（Shengqi Dang, 2025 - Now），博士 (上海创智学院) <br>
   <font size=2>专业背景：同济大学，基础学科拔尖班（数学） <br>
-  研究方向： 目标导向的 AIGC 生成模型 <br>
+  研究方向：智能设计（目标导向的 AIGC 生成模型） <br>
   联系方式：dangsq123 (at) tongji.edu.cn</font>
 - **钱姿青**（Ziqing Qian, 2024 - Now），直博 (自主智能科学中心) <br>
   <font size=2>专业背景：同济大学，国豪班强基计划（物理） <br>
-  研究方向：复杂网络可视分析 <br>
+  研究方向：可视分析（复杂网络可视分析） <br>
   联系方式：qianziqing0719 (at) gmail.com </font>
 - **王亦可**（Yike Wang, 2024 - Now），博士 (设计创意学院) <br>
   <font size=2>专业背景：帝国理工学院 + 皇家艺术学院（创新设计工程双学位） <br>
@@ -82,7 +82,7 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
   联系方式：chuerchen1998 (at) gmail.com</font>
 - **鲍捷**（Jie Bao， 2022 - Now），博士 <br>
   <font size=2>专业背景：上海交通大学（计算机科学与技术）<br>
-  研究方向：因果关系可视分析<br>
+  研究方向：可视分析（因果关系可视分析）<br>
   联系方式：</font>
 - **袁潮**（Chao Yuan，2022 - Now），博士（自主智能科学中心）<br>
   <font size=2>专业背景：清华大学（工业设计）<br>
@@ -90,11 +90,11 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
   联系方式：chaoyuan.idvx (at) gmail.com </font>
 - [**汪雪阳**](https://lenawang07.wixsite.com/website)（Xueyang Wang，2022 - Now），博士（设计创意学院）<br>
   <font size=2>专业背景：卡耐基梅隆大学（人机交互与游戏设计）<br>
-  研究方向：数字人交互设计<br>
+  研究方向：人机交互（数字人交互设计）<br>
   联系方式：wxy111493 (at) outlook.com</font>
 - [**郭熠**](https://scholar.google.ca/citations?user=9fDFvb8AAAAJ&hl=en)（Yi Guo，2020 - 2024，4 年毕业），博士（设计创意学院）<br>
   <font size=2>专业背景：多伦多大学（金融数学专业）<br>
-  研究方向：增强式大数据可视分析<br>
+  研究方向：可视分析（增强式大数据可视分析）<br>
   就业工作：现任 PayPal 人工智能研究员
   </font>
 - [**蓝星宇**](https://olivialan.github.io/)(Xingyu Lan，2018 - 2022，3.5 年毕业)，博士（设计创意学院）<br>
@@ -103,13 +103,13 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
   就业工作：现任复旦大学助理教授</font>
 - [**史丹青**](https://sdq.github.io/)(Danqing Shi，2017 - 2022，4 年毕业)，博士（设计创意学院）<br>
   <font size=2>专业背景：同济大学（通讯工程）<br>
-  研究方向：增强式大数据可视分<br>
+  研究方向：可视分析（增强式大数据可视分）<br>
   就业工作：现任芬兰人工智能中心研究员</font>
 - [**金卓宸**](https://scholar.google.ca/citations?user=Iq-HlisAAAAJ&hl=zh-CN)(Zhuochen Jin，2016 - 2020，4 年毕业），直博（设计创意学院）<br>
   <font size=2>专业背景：浙江大学（竺可桢学院，统计专业）<br>
-  研究方向：面向智慧医疗数据的可视分析技术 <br>
+  研究方向：可视分析（面向智慧医疗数据的可视分析技术） <br>
   就业工作：现任华为云研究员</font>
 - [**郭姝男**](https://research.adobe.com/person/shunan-guo/)(Shunan Guo，2016 - 2019，3.5 年毕业)，直博（软件学院）<br>
   <font size=2>专业背景：华东师范大学（软件工程）<br>
-  研究方向：面向智慧医疗数据的可视分析技术
+  研究方向：可视分析（面向智慧医疗数据的可视分析技术）
   就业工作：现任美国 Adobe Research 研究员</font>
