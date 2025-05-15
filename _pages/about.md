@@ -82,10 +82,6 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
   <font size=2>专业背景：北京理工大学（电子信息工程）/ 新加坡国立大学（电子与计算机工程）<br>
   研究方向：智能设计（设计决策模型）<br>
   联系方式：chuerchen1998 (at) gmail.com</font>
-- **鲍捷**（Jie Bao， 2022 - Now），博士 <br>
-  <font size=2>专业背景：上海交通大学（计算机科学与技术）<br>
-  研究方向：可视分析（因果关系分析）<br>
-  联系方式：</font>
 - **袁潮**（Chao Yuan，2022 - Now），博士（自主智能科学中心）<br>
   <font size=2>专业背景：清华大学（工业设计）<br>
   研究方向：智能设计（4D打印与智能制造）<br>
