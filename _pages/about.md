@@ -83,7 +83,7 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - **汪雪阳**（Xueyang Wang，2021 - Now），博士（设计创意学院）<br>
   <font size=2>专业背景：卡耐基梅隆大学（人机交互与游戏设计）<br>
   研究方向：数字人交互设计<br>
-  联系方式：</font>
+  联系方式：wxy111493@outlook.com</font>
 - [**郭熠**（Yi Guo，2022 - 2024，现任 PayPal 人工智能研究员）](https://scholar.google.ca/citations?user=9fDFvb8AAAAJ&hl=en)，博士（设计创意学院）<br>
   <font size=2>专业背景：多伦多大学（金融数学专业），<br>
   研究方向：增强式大数据可视分析</font>
