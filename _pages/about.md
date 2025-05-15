@@ -98,6 +98,6 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - [**金卓宸** (Zhuochen Jin，2016 - 2020，现任华为云研究员）](https://scholar.google.ca/citations?user=Iq-HlisAAAAJ&hl=zh-CN)，直博（设计创意学院）<br>
   本科/硕士：浙江大学（竺可桢学院，统计专业）<br>
   研究方向：面向智慧医疗数据的可视分析技术
-- [**郭姝男** (Shunan Guo，2016 - 2019，现任美国 Adobe Research 研究员)](https://research.adobe.com/person/shunan-guo/)，直博（设计创意学院）<br>
+- [**郭姝男** (Shunan Guo，2016 - 2019，现任美国 Adobe Research 研究员)](https://research.adobe.com/person/shunan-guo/)，直博（软件学院）<br>
   本科/硕士：华东师范大学（软件工程）<br>
   研究方向：面向智慧医疗数据的可视分析技术
