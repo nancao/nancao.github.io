@@ -101,7 +101,7 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
   </font>
 - [**蓝星宇**](https://olivialan.github.io/)(Xingyu Lan，2018 - 2022，3.5 年毕业)，博士（设计创意学院）<br>
   <font size=2>专业背景：北京大学（社会科学）/ 北京大学（新闻传媒）<br>
-  研究方向：信息传达设计（情感可视化设计）<br>
+  研究方向：信息可视化（情感可视化设计）<br>
   就业工作：现任复旦大学助理教授</font>
 - [**史丹青**](https://sdq.github.io/)(Danqing Shi，2017 - 2022，4 年毕业)，博士（设计创意学院）<br>
   <font size=2>专业背景：同济大学（通讯工程）<br>
