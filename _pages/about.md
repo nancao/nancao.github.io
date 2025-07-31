@@ -82,7 +82,7 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
   <font size=2>专业背景：北京邮电大学，数字媒体技术 <br>
   研究方向：智能设计（设计智能体）<br>
   联系方式：heyi.hy11 (at) gmail.com</font>
-- **陈楚儿**（Chuer Chen, 2023 - Now），博士（自主智能科学中心） <br>
+- **陈楚儿**(https://chuer-chen.netlify.app/)（Chuer Chen, 2023 - Now），博士（自主智能科学中心） <br>
   <font size=2>专业背景：北京理工大学（电子信息工程）/ 新加坡国立大学（电子与计算机工程）<br>
   研究方向：智能设计（设计决策模型）<br>
   联系方式：chuerchen1998 (at) gmail.com</font>
