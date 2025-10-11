@@ -25,6 +25,7 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 [Recent Publications](https://idvxlab.com/publication.html) <code>|</code> [Google Scholar](https://scholar.google.com/citations?user=5I0mFcsAAAAJ) <code>|</code> [DBLP](https://dblp.org/pid/66/5146-1.html)
 
 #### Awards:
+- 2025, Top 2% Scientists, Stanford/Elsevier
 - 2024, Top 2% Scientists, Stanford/Elsevier
 - 2024, Best Paper Honorable Mention, IEEE PacificVis
 - 2024, AI 2000 Most Influential Scholar Award Honorable Mention in Visualization, AI Open Index
@@ -62,31 +63,31 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
   <font size=2>专业背景：中科大少年班（人工智能）<br>
   研究方向：智能设计（仿生设计）<br>
   联系方式：yiyu.chen (at) mail.ustc.edu.cn</font>
-- **党圣奇**（Shengqi Dang, 2025 - Now），博士 (上海创智学院) <br>
+- [**党圣奇**](https://dangsq.github.io/#/)（Shengqi Dang, 2025 - Now），博士 (上海创智学院) <br>
   <font size=2>专业背景：同济大学，基础学科拔尖班（数学） <br>
   研究方向：智能设计（AIGC生成模型） <br>
   联系方式：dangsq123 (at) tongji.edu.cn</font>
 - **钱姿青**（Ziqing Qian, 2024 - Now），直博 (自主智能科学中心) <br>
   <font size=2>专业背景：同济大学，国豪班强基计划（物理） <br>
-  研究方向：可视分析（复杂网络分析） <br>
+  研究方向：可视分析（复杂网络分析、SCISCI） <br>
   联系方式：qianziqing0719 (at) gmail.com </font>
 - **王亦可**（Yike Wang, 2024 - Now），博士 (设计创意学院) <br>
   <font size=2>专业背景：帝国理工学院 + 皇家艺术学院（创新设计工程双学位） <br>
-  研究方向：人机交互（适老性设计）<br>
+  研究方向：人机交互（适老性设计、医疗设计）<br>
   联系方式：yklauriewang (at) gmail.com</font>
 - **王嘉喆**（Yi He, 2023 - Now），在职博士 (设计创意学院) <br>
   <font size=2>专业背景：牛津大学（数据可视化），现任阿里集团高级前端工程师 <br>
   研究方向：智能设计（智能用户界面）<br>
   联系方式：</font>
-- **何一**（Yi He, 2023 - Now），直博 (设计创意学院) <br>
+- [**何一**]()（Yi He, 2023 - Now），直博 (设计创意学院) <br>
   <font size=2>专业背景：北京邮电大学，数字媒体技术 <br>
-  研究方向：智能设计（设计智能体）<br>
+  研究方向：智能设计（设计智能体与智能设计工具）<br>
   联系方式：heyi.hy11 (at) gmail.com</font>
-- **陈楚儿**(https://chuer-chen.netlify.app/)（Chuer Chen, 2023 - Now），博士（自主智能科学中心） <br>
+- [**陈楚儿**](https://chuer-chen.netlify.app/)（Chuer Chen, 2023 - Now），博士（自主智能科学中心） <br>
   <font size=2>专业背景：北京理工大学（电子信息工程）/ 新加坡国立大学（电子与计算机工程）<br>
   研究方向：智能设计（设计决策模型）<br>
   联系方式：chuerchen1998 (at) gmail.com</font>
-- **袁潮**（Chao Yuan，2022 - Now），博士（自主智能科学中心）<br>
+- [**袁潮**]()（Chao Yuan，2022 - Now），博士（自主智能科学中心）<br>
   <font size=2>专业背景：清华大学（工业设计）<br>
   研究方向：智能设计（4D打印与智能制造）<br>
   联系方式：chaoyuan.idvx (at) gmail.com </font>
