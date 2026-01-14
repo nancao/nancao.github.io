@@ -24,8 +24,6 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 
 截止2025 年 4 月，曹楠教授在同济大学任教的 8 年中，共培养毕业了 5 名博士及20余名硕士研究生。这些学生中，有一人获得 “**同济大学学术先锋**” 称号（设计创意学院创立以来首次），多人获得 “**国家奖学金**”、同济大学 “**优秀毕业论文**” 及 “**上海市优秀毕业生称号**”。博士生毕业后入选 **“华为天才少年”**、入职 **美国 Adobe 研究院**、**复旦大学（助理教授）**、**芬兰人工智能研究院**、**剑桥大学（博士后）**。硕士毕业后多人就职于 “字节跳动”、“阿里”、“腾讯”、“蚂蚁”、“华为” 等一线互联网/IT 企业。这些学生在各自的岗位上继续开展智能设计领域的研究工作，多人次在 IEEE VIS，ACM CHI 等重要国际会议上发表自主论文并获得 **最佳论文奖 2 次** 及 **最佳论文提名奖5次**，发扬了团队的学术精神。2024年，曹楠教授带领的团队获评 **“同济大学卓越研究生导学团队”**， 成为设创学院有史以来第一支获得该荣誉的团队。
 
-曹楠教授常年招收
-
 [Recent Publications](https://idvxlab.com/publication.html) <code>|</code> [Google Scholar](https://scholar.google.com/citations?user=5I0mFcsAAAAJ) <code>|</code> [DBLP](https://dblp.org/pid/66/5146-1.html)
 
 #### Awards:
