@@ -16,7 +16,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](https://tjdi.tongji.edu.cn/) (Tongji D&I) and a professor at [Tongji School of Software Engineering](https://sse.tongji.edu.cn/index.htm). He is the founding director of AI & Data design program and [intelligent big data visualization lab](https://idvxlab.com/) at Tongji University. Before joining Tongji, Nan Cao was a research staff member at [IBM T. J. Watson Research Center](https://research.ibm.com/labs/watson/) in USA. He received a PhD degree in Computer Science and Engineering from the [Hong Kong University of Science and Technology](https://hkust.edu.hk/). His research interests are AI + (data visualization, information design, visual communication design, and human-computer interaction). He has published over 150 research papers in these fields.
+Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](https://tjdi.tongji.edu.cn/) (Tongji D&I) and a professor at [Tongji School of Software Engineering](https://sse.tongji.edu.cn/index.htm). He is the founding director of AI & Data design program and [intelligent big data visualization lab](https://idvxlab.com/) at Tongji University. Before joining Tongji, Nan Cao was a research staff member at [IBM T. J. Watson Research Center](https://research.ibm.com/labs/watson/) in USA. He received a PhD degree in Computer Science and Engineering from the [Hong Kong University of Science and Technology](https://hkust.edu.hk/). His research interests are AI + (data visualization, information design, and human-computer interaction). He has published over 150 research papers in these fields.
 
 曹楠教授 博士毕业自香港科技大学，获得港科大工学院博士杰出研究奖。毕业后曾先后任美国 [IBM T.J. Watson Research Center](https://research.ibm.com/labs/yorktown-heights) 研究员、[纽约大学](https://www.nyu.edu/)/[上海纽约大学](https://shanghai.nyu.edu/) 助理教授，后加入同济大学，获得国家级青年人才称号。曹楠目前是[同济大学设计创意学院](https://tjdi.tongji.edu.cn/)副院长、[中意工程学院](https://tjsic.tongji.edu.cn/)副院长、长聘教授，同济-商飞大飞机研究院副院长，[上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/)、[同济大学软件学院](https://sse.tongji.edu.cn/) 双聘教授，[上海创智学院](https://admissions.sii.edu.cn/)全时博士生导师。
 
@@ -45,6 +45,8 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - Nature Humanities and Social Sciences Communications, Editorial Board
 - Computer Science Review (IF:13.2, JCR Q1), Editorial Board
 - IEEE Transactions on Big Data (IF: 7.2, JCR Q1), Associate Editor
+- AAAI 2027, Senior PC
+- NeurIPS 2026, Area Chair
 - ACM CHI 2024, Associate Chair
 - IEEE VIS 2023, Poster Chair
 - IEEE PacificVis 2018, 2019, Paper Chair
