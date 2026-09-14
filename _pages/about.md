@@ -20,9 +20,9 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 
 曹楠教授 博士毕业自香港科技大学，获得港科大工学院博士杰出研究奖。毕业后曾先后任美国 [IBM T.J. Watson Research Center](https://research.ibm.com/labs/yorktown-heights) 研究员、[纽约大学](https://www.nyu.edu/)/[上海纽约大学](https://shanghai.nyu.edu/) 助理教授，后加入同济大学，获得国家级青年人才称号。曹楠目前是[同济大学设计创意学院](https://tjdi.tongji.edu.cn/)副院长、[中意工程学院](https://tjsic.tongji.edu.cn/)副院长、长聘教授，同济-商飞大飞机研究院副院长，[上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/)、[同济大学软件学院](https://sse.tongji.edu.cn/) 双聘教授，[上海创智学院](https://admissions.sii.edu.cn/)全时博士生导师。
 
-曹楠教授关注于人工智能与设计交叉领域的研究工作，近些年，聚焦 **可进化智能体** 、 **设计大模型**、及 **人机交互系统** 方向的研究。技术落地在 **智能信息设计/数据可视化、工业设计/CAD & CG、交互设计/人机交互** 等领域。在相关领域累计发表 150 余篇论文（CCF-A 类论文 80 余篇），曾获 3 项最佳论文奖及 7 项最佳论文提名奖。 在上述领域曾主持国家重点研发计划课题、自然科学基金等5 项国家级基金项目。
+曹楠教授关注人工智能与设计交叉领域的研究工作，近些年，聚焦 **可进化智能体** 、 **设计大模型**、及 **人机交互系统** 技术领域的研究，技术落地在 **智能信息设计/数据可视化、工业设计/CAD & CG、交互设计/人机交互** 等领域。在相关领域累计发表 150 余篇论文（CCF-A 类论文 80 余篇），曾获 3 项最佳论文奖及 7 项最佳论文提名奖。 在上述领域曾主持国家重点研发计划课题、自然科学基金等5 项国家级基金项目。
 
-截止2025 年 4 月，曹楠教授在同济大学任教的 8 年中，共培养毕业了 5 名博士及20余名硕士研究生。这些学生中，有一人获得 “**同济大学学术先锋**” 称号（设计创意学院创立以来首次），多人获得 “**国家奖学金**”、同济大学 “**优秀毕业论文**” 及 “**上海市优秀毕业生称号**”。博士生毕业后入选 **“华为天才少年”**、入职 **美国 Adobe 研究院**、**复旦大学（助理教授）**、**芬兰人工智能研究院**、**剑桥大学（博士后）**。硕士毕业后多人就职于 “字节跳动”、“阿里”、“腾讯”、“蚂蚁”、“华为” 等一线互联网/IT 企业。这些学生在各自的岗位上继续开展智能设计领域的研究工作，多人次在 IEEE VIS，ACM CHI 等重要国际会议上发表自主论文并获得 **最佳论文奖 2 次** 及 **最佳论文提名奖6次**，发扬了团队的学术精神。2024年，曹楠教授带领的团队获评 **“同济大学卓越研究生导学团队”**， 成为设创学院有史以来第一支获得该荣誉的团队。
+截止2025 年 4 月，曹楠教授在同济大学任教的 8 年中，共培养毕业了 5 名博士及30余名硕士研究生。这些学生中，有一人获得 “**同济大学学术先锋**” 称号（设计创意学院创立以来首次），多人获得 “**国家奖学金**”、同济大学 “**优秀毕业论文**” 及 “**上海市优秀毕业生称号**”。博士生毕业后入选 **“华为天才少年”**、入职 **美国 Adobe 研究院**、**复旦大学（助理教授）**、**芬兰人工智能研究院**、**剑桥大学（博士后）**。硕士毕业后多人就职于 “字节跳动”、“阿里”、“腾讯”、“蚂蚁”、“华为” 等一线互联网/IT 企业。这些学生在各自的岗位上继续开展智能设计领域的研究工作，多人次在 IEEE VIS，ACM CHI 等重要国际会议上发表自主论文并获得 **最佳论文奖 2 次** 及 **最佳论文提名奖6次**，发扬了团队的学术精神。2024年，曹楠教授带领的团队获评 **“同济大学卓越研究生导学团队”**， 成为设创学院有史以来第一支获得该荣誉的团队。
 
 [Recent Publications](https://idvxlab.com/publication.html) <code>|</code> [Google Scholar](https://scholar.google.com/citations?user=5I0mFcsAAAAJ) <code>|</code> [DBLP](https://dblp.org/pid/66/5146-1.html)
 
@@ -30,21 +30,19 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - 2025, Top 2% Scientists, Stanford/Elsevier
 - 2024, Top 2% Scientists, Stanford/Elsevier
 - 2024, Best Paper Honorable Mention, IEEE PacificVis
-- 2024, AI 2000 Most Influential Scholar Award Honorable Mention in Visualization, AI Open Index
+- 2020,2021,2022,2023,2024,2025,2026 AI 2000 Most Influential Scholar in Visualization (Ranked 11th in the World), AI Open Index
 - 2023, Best Paper Award, IEEE VIS
 - 2023, Best Paper Honorable Mention, IEEE VIS
 - 2023, Best Poster Honorable Mention, IEEE VIS
 - 2023, Top 2% Scientists, Stanford/Elsevier
-- 2023, AI 2000 Most Influential Scholar Award Honorable Mention in Visualization, AI Open Index
 - 2022, 2 Best Paper Honorable Mention Awards, IEEE VIS
 - 2022, Intelligent Industrial Designer Top 20, Forbes China
-- 2022, AI 2000 Most Influential Scholar Award Honorable Mention in Visualization, AI Open Index
-- 2020, AI 2000 Most Influential Scholar Award Honorable Mention in Visualization, AI Open Index
 - 2015, Outstanding Technique Achievement Award, IBM
 - 2014, Honorable Mention Award, IEEE VAST
 - 2005, Most Valuable Professional, Microsoft  
 
 #### Services:
+- Nature Humanities and Social Sciences Communications, Editorial Board
 - Computer Science Review (IF:13.2, JCR Q1), Editorial Board
 - IEEE Transactions on Big Data (IF: 7.2, JCR Q1), Associate Editor
 - ACM CHI 2024, Associate Chair
