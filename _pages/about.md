@@ -61,7 +61,7 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
   研究方向：信息可视化与视觉传达设计 </font>（已出站）
 
 #### PhD Students: 
-- [**吴和平**](www.hepingwu.com)（Heping Wu, 2026 - Now），专业博士 (设计创意学院) <br>
+- [**吴和平**](https://www.hepingwu.com)（Heping Wu, 2026 - Now），专业博士 (设计创意学院) <br>
   <font size=2>专业背景：中国日报，CHINA DAILY海外版头版插画师<br>
   研究方向：信息可视化、人机交互<br>
   联系方式：Hepingwu0730 (at) gmail.com</font>
