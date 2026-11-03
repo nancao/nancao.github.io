@@ -27,9 +27,9 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 [Recent Publications](https://idvxlab.com/publication.html) <code>|</code> [Google Scholar](https://scholar.google.com/citations?user=5I0mFcsAAAAJ) <code>|</code> [DBLP](https://dblp.org/pid/66/5146-1.html)
 
 #### Awards:
-- 2023,2024,2025,2026, Top 2% Scientists, Stanford/Elsevier
+- 2023 - 2026, Top 2% Scientists, Stanford/Elsevier
 - 2024, Best Paper Honorable Mention, IEEE PacificVis
-- 2020 - 2026 AI 2000 Most Influential Scholar in Visualization (Ranked 11th in the World), AI Open Index
+- 2020 - 2026, AI 2000 Most Influential Scholar in Visualization (Ranked 11th in the World), AI Open Index
 - 2023, Best Paper Award, IEEE VIS
 - 2023, Best Paper Honorable Mention, IEEE VIS
 - 2023, Best Poster Honorable Mention, IEEE VIS
@@ -49,6 +49,7 @@ Nan Cao (曹楠) is the vice dean of [Tongji College of Design and Innovation](h
 - ACM CHI 2024, Associate Chair
 - IEEE VIS 2023, Poster Chair
 - IEEE PacificVis 2018, 2019, Paper Chair
+- IEEE VIS 2013 - 20210, PC Memeber
 - ChinaVis 2017, 2018, Paper Chair
 
 #### Postdoctoral Researcher: 
